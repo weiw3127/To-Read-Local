@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/To-Read-Local/static/css/main.dc472980.css",
+    "main.js": "/To-Read-Local/static/js/main.64422954.js",
+    "index.html": "/To-Read-Local/index.html",
+    "main.dc472980.css.map": "/To-Read-Local/static/css/main.dc472980.css.map",
+    "main.64422954.js.map": "/To-Read-Local/static/js/main.64422954.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc472980.css",
+    "static/js/main.64422954.js"
+  ]
+}
